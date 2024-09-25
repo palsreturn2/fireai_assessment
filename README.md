@@ -33,21 +33,6 @@ Invoke-WebRequest -Uri "http://127.0.0.1:8000/summarise/" -Method POST -Headers 
 
 # Response
 
-StatusCode        : 200
-StatusDescription : OK
-Content           : The full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed.nRepair work is ongoing in Hawick and many
-                    roads in Peeblesshire remain badly affected by flooding.
-RawContent        : HTTP/1.1 200 OK
-                    X-Frame-Options: DENY
-                    X-Content-Type-Options: nosniff
-                    Referrer-Policy: same-origin
-                    Cross-Origin-Opener-Policy: same-origin
-                    Content-Length: 199
-                    Content-Type: text/html; charset=ut...
-Forms             : {}
-Headers           : {[X-Frame-Options, DENY], [X-Content-Type-Options, nosniff], [Referrer-Policy, same-origin], [Cross-Origin-Opener-Policy, same-origin]...}
-Images            : {}
-InputFields       : {}
-Links             : {}
-ParsedHtml        : mshtml.HTMLDocumentClass
-RawContentLength  : 199
+The full cost of damage in Newton Stewart, one of the areas worst affected, is still being assessed.nRepair work is ongoing in Hawick and many
+roads in Peeblesshire remain badly affected by flooding.
+
