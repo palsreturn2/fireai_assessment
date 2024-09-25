@@ -10,7 +10,9 @@ Installation instructions for the django app.
 
 3) Unzip the model tar file into the folder ./summarize/. 
 
-4) Run the server using python manage.py runserver.
+4) Run pip install -r requirements.txt
+
+5) Run the server using python manage.py runserver.
 
 
 Instructions to query the server (Say localhost) in Windows Powershell
