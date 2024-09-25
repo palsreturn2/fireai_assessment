@@ -1,6 +1,8 @@
 # Fireai Assessment
 
-This is the django app for the assignment which was shared to me. This repo also includes Summarization.ipynb which has the model training code. 
+This is the django app for the assignment which was shared to me. 
+
+#### Includes Summarization.ipynb which has the model training code. 
 
 Installation instructions for the django app.
 
